@@ -1,8 +1,8 @@
 # Awesome-Pretraining-for-Graph-Neural-Networks
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) 
-![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks?color=green)  ![Forks](https://img.shields.io/github/forks/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks?color=blue)
+![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks?color=green)
 
-This repository contains a curated list of papers on **pre-training for graph neural networks** (Pre-train4GNN), which are categorized based on their published years, graph types, pre-training strategies, tuning strategies, and applications.
+This repository contains a curated list of papers on (or related to) **pre-training for graph neural networks** (Pre-train4GNN), which are categorized based on their published years, graph types, pre-training strategies, tuning strategies, and applications.
 
 *Continuously updating!*
 
@@ -11,7 +11,10 @@ This repository contains a curated list of papers on **pre-training for graph ne
 
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks | _WWW 2023_ | Static | Contrastive | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.08043.pdf) | [[Code]](https://github.com/Starlien95/GraphPrompt) |
 | GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks | _KDD 2022_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539249) | [[Code]](https://github.com/MingChen-Sun/GPPT) |
+| GraphMAE: Self-Supervised Masked Graph Autoencoders | _KDD 2022_ | Static | Generative | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539321) | [[Code]](https://github.com/THUDM/GraphMAE) |
+| Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries | _KDD 2022_ | KG | Generative | Generative | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539472) | [[Code]](https://github.com/THUDM/kgTransformer) |
 | Pre-training Molecular Graph Representation with 3D Geometry | _ICLR 2022_ | Static | Generative+Contrastive | N/A | Biology | [[PDF]](https://openreview.net/pdf?id=xQUe1pOKPam) | [[Code]](https://github.com/chao1224/GraphMVP) |
 | Pre-training on Dynamic Graph Neural Networks | _Neurocomputing 2022_ | Dynamic | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2102.12380.pdf) | [[Code]](https://github.com/Mobzhang/PT-DGNN) |
 | Pre-training on Large-Scale Heterogeneous Graph | _KDD 2021_ | Heterogeneous | Contrastive | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467396) | [[Code]](https://github.com/BUPT-GAMMA/PTHGNN) |
