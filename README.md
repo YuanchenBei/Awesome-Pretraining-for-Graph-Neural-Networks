@@ -12,8 +12,12 @@ This repository contains a curated list of papers on **pre-training for graph ne
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
 |  GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks | _KDD 2022_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539249) | [[Code]](https://github.com/MingChen-Sun/GPPT) |
+| Pre-training Molecular Graph Representation with 3D Geometry | _ICLR 2022_ | Static | Generative+Contrastive | N/A | Biology | [[PDF]](https://openreview.net/pdf?id=xQUe1pOKPam) | [[Code]](https://github.com/chao1224/GraphMVP) |
+| Pre-training on Dynamic Graph Neural Networks | _Neurocomputing 2022_ | Dynamic | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2102.12380.pdf) | [[Code]](https://github.com/Mobzhang/PT-DGNN) |
+| Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation | _WSDM 2021_ | Static | Generative+RL | N/A | Recommendation | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441738) | [[Code]](https://github.com/jerryhao66/Pretrain-Recsys) |
 | GPT-GNN: Generative Pre-Training of Graph Neural Networks | _KDD 2020_ | Static | Generative | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237) | [[Code]](https://github.com/UCLA-DM/GPT-GNN) |
 | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | _KDD 2020_ | Static | Contrastive | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403168) | [[Code]](https://github.com/THUDM/GCC) |
+| Strategies for Pre-training Graph Neural Networks | _ICLR 2020_ | Static | Generative | N/A | Chemistry&Biology | [[PDF]](https://arxiv.org/pdf/1905.12265.pdf) | [[Code]](http://snap.stanford.edu/gnn-pretrain) |
 ----------
 
 
