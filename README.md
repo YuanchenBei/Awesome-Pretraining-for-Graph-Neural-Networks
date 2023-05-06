@@ -19,9 +19,11 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | Neural Graph Matching for Pre-training Graph Neural Networks | _SDM 2022_ | Static | Contrastive | N/A | General | [[PDF]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.20) | [[Code]](https://github.com/RUCAIBox/GMPT) |
 | Pre-train Graph Neural Networks for Brain Network Analysis | _Big Data 2022_ | Static | Contrastive | N/A | Biology | [[PDF]](https://openreview.net/pdf?id=I1Mdyc2Bg5x) | N/A |
 | GCCAD: Graph Contrastive Learning for Anomaly Detection | _TKDE 2022_ | Static | Contrastive | N/A | Anomaly Detection | [[PDF]](https://arxiv.org/pdf/2108.07516.pdf) | [[Code]](https://github.com/THUDM/GraphCAD) |
+| Pre-training Graph Neural Networks for Link Prediction in Biomedical Networks | _Bioinformatics 2022_ | Static | Generative | N/A |  Biology | [[PDF]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8161&context=sis_research) | [[Code]](https://github.com/longyahui/PT-GNN) |
 | Pre-training on Dynamic Graph Neural Networks | _Neurocomputing 2022_ | Dynamic | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2102.12380.pdf) | [[Code]](https://github.com/Mobzhang/PT-DGNN) |
 | Adaptive Transfer Learning on Graph Neural Networks | _KDD 2021_ | Static | N/A | Meta Learning | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467450) | [[Code]](https://github.com/Sean-Huang65/AUX-TS) |
 | Pre-training on Large-Scale Heterogeneous Graph | _KDD 2021_ | Heterogeneous | Contrastive | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467396) | [[Code]](https://github.com/BUPT-GAMMA/PTHGNN) |
+| Self-supervised Graph-level Representation Learning with Local and Global Structure | _ICML 2021_ | Static | Contrastive | N/A | Biology | [[PDF]](http://proceedings.mlr.press/v139/xu21g/xu21g.pdf) | [[Code]](https://github.com/DeepGraphLearning/GraphLoG) |
 | Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks | _IJCAI 2021_ | Static | Decomposition | N/A | General | [[PDF]](https://www.ijcai.org/proceedings/2021/0371.pdf) | N/A |
 | Contrastive Pre-Training of GNNs on Heterogeneous Graphs | _CIKM 2021_ | Heterogeneous | Contrastive | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467396) | [[Code]](https://github.com/BUPT-GAMMA/CPT-HG) |
 | Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation | _WSDM 2021_ | Static | Generative+RL | N/A | Recommendation | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441738) | [[Code]](https://github.com/jerryhao66/Pretrain-Recsys) |
@@ -38,6 +40,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
 | DiP-GNN: Discriminative Pre-Training of Graph Neural Networks | _Arxiv 2022_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2209.07499.pdf) | N/A |
 | Hypergraph Pre-training with Graph Neural Networks | _Arxiv 2021_ | Hypergraph | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2302.08043.pdf) | N/A |
+| Pre-training Graph Neural Networks with Kernels | _Arxiv 2018_ | Static | Kernel | N/A | General | [[PDF]](https://arxiv.org/pdf/1811.06930.pdf) | N/A |
 
 ----------
 
