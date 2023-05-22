@@ -12,6 +12,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
 | GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks | _WWW 2023_ | Static | Contrastive | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.08043.pdf) | [[Code]](https://github.com/Starlien95/GraphPrompt) |
+| Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer | _WWW 2023_ | KG | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583301) | [[Code]](https://github.com/zjukg/KGTransformer) |
 | GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks | _KDD 2022_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539249) | [[Code]](https://github.com/MingChen-Sun/GPPT) |
 | GraphMAE: Self-Supervised Masked Graph Autoencoders | _KDD 2022_ | Static | Generative | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539321) | [[Code]](https://github.com/THUDM/GraphMAE) |
 | Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries | _KDD 2022_ | KG | Generative | Generative | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539472) | [[Code]](https://github.com/THUDM/kgTransformer) |
@@ -21,6 +22,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | Pre-train Graph Neural Networks for Brain Network Analysis | _Big Data 2022_ | Static | Contrastive | N/A | Biology | [[PDF]](https://openreview.net/pdf?id=I1Mdyc2Bg5x) | N/A |
 | GCCAD: Graph Contrastive Learning for Anomaly Detection | _TKDE 2022_ | Static | Contrastive | N/A | Anomaly Detection | [[PDF]](https://arxiv.org/pdf/2108.07516.pdf) | [[Code]](https://github.com/THUDM/GraphCAD) |
 | Pre-training Graph Neural Networks for Link Prediction in Biomedical Networks | _Bioinformatics 2022_ | Static | Generative | N/A |  Biology | [[PDF]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8161&context=sis_research) | [[Code]](https://github.com/longyahui/PT-GNN) |
+| Pre-Training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding | _Advanced Science 2022_ | Dynamic | Generative | N/A | Biology | [[PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202203796) | [[Code]](https://github.com/smiles724/ProtMD) |
 | Pre-training on Dynamic Graph Neural Networks | _Neurocomputing 2022_ | Dynamic | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2102.12380.pdf) | [[Code]](https://github.com/Mobzhang/PT-DGNN) |
 | Adaptive Transfer Learning on Graph Neural Networks | _KDD 2021_ | Static | N/A | Meta Learning | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467450) | [[Code]](https://github.com/Sean-Huang65/AUX-TS) |
 | Pre-training on Large-Scale Heterogeneous Graph | _KDD 2021_ | Heterogeneous | Contrastive | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467396) | [[Code]](https://github.com/BUPT-GAMMA/PTHGNN) |
@@ -39,6 +41,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 ### Pre-print Papers
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| SGL-PT: A Strong Graph Learner with Graph Prompt Tuning | _Arxiv 2023_ | Static | Generative | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.12449.pdf) | N/A |
 | DiP-GNN: Discriminative Pre-Training of Graph Neural Networks | _Arxiv 2022_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2209.07499.pdf) | N/A |
 | Hypergraph Pre-training with Graph Neural Networks | _Arxiv 2021_ | Hypergraph | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2302.08043.pdf) | N/A |
 | GRAPH-BERT: Only Attention is Needed for Learning Graph Representations | _Arxiv 2020_ | Static | Generative | N/A | General | [[PDF]](http://www.ifmlab.org/files/paper/graph_bert.pdf) | [[Code]](https://github.com/jwzhanggy/Graph-Bert) |
