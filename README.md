@@ -39,6 +39,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | GPT-GNN: Generative Pre-Training of Graph Neural Networks | _KDD 2020_ | Static | Generative | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237) | [[Code]](https://github.com/UCLA-DM/GPT-GNN) |
 | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training | _KDD 2020_ | Static | Contrastive | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403168) | [[Code]](https://github.com/THUDM/GCC) |
 | Strategies for Pre-training Graph Neural Networks | _ICLR 2020_ | Static | Generative | N/A | Chemistry&Biology | [[PDF]](https://arxiv.org/pdf/1905.12265.pdf) | [[Code]](http://snap.stanford.edu/gnn-pretrain) |
+| Pre-training of Graph Augmented Transformers for Medication Recommendation | _IJCAI 2019_ | Ontology Tree | Generative | N/A |  Recommendation | [[PDF]](https://www.ijcai.org/proceedings/2019/0825.pdf) | [[Code]](https://github.com/jshang123/G-Bert) |
 
 ---------
 
