@@ -61,6 +61,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2303.07275.pdf) | N/A |
 | A Survey of Pre-training on Graphs: Taxonomy, Methods and Applications | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.07893.pdf) | [[Code]](https://github.com/junxia97/awesome-pretrain-on-molecules) |
 | Self-Supervised Learning of Graph Neural Networks: A Unified Review | _TPAMI 2022_ | [[PDF]](https://arxiv.org/pdf/2102.10757.pdf) | N/A |
+| Graph Self-Supervised Learning: A Survey | _TKDE 2022_ |[[PDF]](https://arxiv.org/pdf/2103.00111.pdf) | N/A |
 | Self-supervised Learning on Graphs: Contrastive, Generative,or Predictive | _TKDE 2021_ | [[PDF]](https://arxiv.org/pdf/2105.07342.pdf) | N/A |
 | Self-supervised Learning on Graphs: Deep Insights and New Directions | _Arxiv 2020_ | [[PDF]](https://arxiv.org/pdf/2006.10141.pdf) | [[Code]](https://github.com/ChandlerBang/SelfTask-GNN) |
 
