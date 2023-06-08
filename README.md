@@ -49,6 +49,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
 | SGL-PT: A Strong Graph Learner with Graph Prompt Tuning | _Arxiv 2023_ | Static | Generative | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.12449.pdf) | N/A |
+| Similarity-aware Positive Instance Sampling for Graph Contrastive Pre-training | _Arxiv 2022_ | Static | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2206.11959.pdf) | N/A |
 | DiP-GNN: Discriminative Pre-Training of Graph Neural Networks | _Arxiv 2022_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2209.07499.pdf) | N/A |
 | Hypergraph Pre-training with Graph Neural Networks | _Arxiv 2021_ | Hypergraph | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2302.08043.pdf) | N/A |
 | GRAPH-BERT: Only Attention is Needed for Learning Graph Representations | _Arxiv 2020_ | Static | Generative | N/A | General | [[PDF]](http://www.ifmlab.org/files/paper/graph_bert.pdf) | [[Code]](https://github.com/jwzhanggy/Graph-Bert) |
