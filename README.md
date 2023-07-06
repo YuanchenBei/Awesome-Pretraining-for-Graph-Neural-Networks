@@ -11,6 +11,8 @@ This repository contains a curated list of papers on (or related to) **pre-train
 
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders | _KDD 2023_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2205.10053.pdf) | [[Code]](https://github.com/EdisonLeeeee/MaskGAE) |
+| When to Pre-Train Graph Neural Networks? From Data Generation Perspective! | _KDD 2023_ | Static | Generative (Quantification) | N/A | General | [[PDF]](https://arxiv.org/pdf/2303.16458.pdf) | [[Code]](https://github.com/caoyxuan/W2PGNN) |
 | GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks | _WWW 2023_ | Static | Contrastive | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.08043.pdf) | [[Code]](https://github.com/Starlien95/GraphPrompt) |
 | GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner | _WWW 2023_ | Static | Generative | N/A | General |[[PDF]](https://arxiv.org/pdf/2304.04779.pdf) | [[Code]](https://github.com/THUDM/GraphMAE2) |
 | Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer | _WWW 2023_ | KG | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583301) | [[Code]](https://github.com/zjukg/KGTransformer) |
