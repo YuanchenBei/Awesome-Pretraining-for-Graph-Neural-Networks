@@ -52,6 +52,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 ### Pre-print Papers
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks | _Arxiv 2023_ | Dynamic | Contrastive | Enhanced Embedding | General | [[PDF]](https://arxiv.org/pdf/2307.02813.pdf) | N/A |
 | SGL-PT: A Strong Graph Learner with Graph Prompt Tuning | _Arxiv 2023_ | Static | Generative | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.12449.pdf) | N/A |
 | Similarity-aware Positive Instance Sampling for Graph Contrastive Pre-training | _Arxiv 2022_ | Static | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2206.11959.pdf) | N/A |
 | DiP-GNN: Discriminative Pre-Training of Graph Neural Networks | _Arxiv 2022_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2209.07499.pdf) | N/A |
