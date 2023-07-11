@@ -11,6 +11,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| Automated 3D Pre-Training for Molecular Property Prediction | _KDD 2023_ | Static | Generative | N/A | Chemistry&Biology | [[PDF]](https://arxiv.org/pdf/2306.07812.pdf) | N/A | 
 | What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders | _KDD 2023_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2205.10053.pdf) | [[Code]](https://github.com/EdisonLeeeee/MaskGAE) |
 | When to Pre-Train Graph Neural Networks? From Data Generation Perspective! | _KDD 2023_ | Static | Generative (Quantification) | N/A | General | [[PDF]](https://arxiv.org/pdf/2303.16458.pdf) | [[Code]](https://github.com/caoyxuan/W2PGNN) |
 | GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks | _WWW 2023_ | Static | Contrastive | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.08043.pdf) | [[Code]](https://github.com/Starlien95/GraphPrompt) |
