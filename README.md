@@ -11,6 +11,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training | _CIKM 2023_ | KG | MTL | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2305.07633.pdf) | N/A |
 | All in One: Multi-Task Prompting for Graph Neural Networks | _KDD 2023_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599256) | [[Code]](https://github.com/sheldonresearch/ProG) | 
 | Automated 3D Pre-Training for Molecular Property Prediction | _KDD 2023_ | Static | Generative | N/A | Chemistry&Biology | [[PDF]](https://arxiv.org/pdf/2306.07812.pdf) | N/A | 
 | What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders | _KDD 2023_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2205.10053.pdf) | [[Code]](https://github.com/EdisonLeeeee/MaskGAE) |
@@ -73,6 +74,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Generative Diffusion Models on Graphs: Methods and Applications | _IJCAI 2023_ | [[PDF]](https://arxiv.org/pdf/2302.02591.pdf) | N/A |
+| Large Graph Models: A Perspective | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2308.14522.pdf) | [[Code]](https://github.com/THUMNLab/awesome-large-graph-model) |
 | A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2303.07275.pdf) | N/A |
 | A Survey of Pre-training on Graphs: Taxonomy, Methods and Applications | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.07893.pdf) | [[Code]](https://github.com/junxia97/awesome-pretrain-on-molecules) |
 | Self-Supervised Learning of Graph Neural Networks: A Unified Review | _TPAMI 2022_ | [[PDF]](https://arxiv.org/pdf/2102.10757.pdf) | N/A |
