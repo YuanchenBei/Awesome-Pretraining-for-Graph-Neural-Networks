@@ -82,3 +82,10 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | Self-supervised Learning on Graphs: Contrastive, Generative,or Predictive | _TKDE 2021_ | [[PDF]](https://arxiv.org/pdf/2105.07342.pdf) | N/A |
 | Self-supervised Learning on Graphs: Deep Insights and New Directions | _Arxiv 2020_ | [[PDF]](https://arxiv.org/pdf/2006.10141.pdf) | [[Code]](https://github.com/ChandlerBang/SelfTask-GNN) |
 
+----------
+
+### Tutorials
+| **Tutorial Title** | **Venue** | **PDF Link** |
+| --------------- | :--------: | :--------: |
+| Self-supervised Learning and Pre-training on Graphs | _WWW 2023_ | [[PDF]](http://keg.cs.tsinghua.edu.cn/jietang/publications/WWW23-tutorial-v6.pdf) |
+
