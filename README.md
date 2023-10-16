@@ -58,6 +58,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 ### Pre-print Papers
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning | _Arxiv 2023_ | Static | Contrastive | Prompt | General | [[PDF]](https://arxiv.org/pdf/2310.07365.pdf) | N/A |  
 | CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks | _Arxiv 2023_ | Dynamic | Contrastive | Enhanced Embedding | General | [[PDF]](https://arxiv.org/pdf/2307.02813.pdf) | N/A |
 | Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training | _Arxiv 2023_ | KG | MTL | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2305.07633.pdf) | N/A |
 | SGL-PT: A Strong Graph Learner with Graph Prompt Tuning | _Arxiv 2023_ | Static | Generative | Prompt | General | [[PDF]](https://arxiv.org/pdf/2302.12449.pdf) | N/A |
