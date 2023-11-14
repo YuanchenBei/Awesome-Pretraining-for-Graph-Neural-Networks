@@ -28,6 +28,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks | _KDD 2022_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539249) | [[Code]](https://github.com/MingChen-Sun/GPPT) |
 | GraphMAE: Self-Supervised Masked Graph Autoencoders | _KDD 2022_ | Static | Generative | N/A | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539321) | [[Code]](https://github.com/THUDM/GraphMAE) |
 | Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries | _KDD 2022_ | KG | Generative | Generative | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539472) | [[Code]](https://github.com/THUDM/kgTransformer) |
+| KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction | _KDD 2022_ | GT | Generative | N/A | Biology | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539426) | [[Code]](https://github.com/lihan97/KPGT) |
 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting| _KDD 2022_ | ST-Graph | Generative | N/A |  Time Series Forecasting | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396) | [[Code]](https://github.com/zezhishao/STEP) |
 | Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering | _NIPS 2022_ | Heterogeneous | Clustering | N/A | General | [[PDF]](https://openreview.net/pdf?id=fBU4qsM6Fkf) | [[Code]](https://github.com/kepsail/SHGP) | 
 | Does GNN Pretraining Help Molecular Representation? | _NIPS 2022_ | Molecular | Evaluation |  N/A | General | [[PDF]](https://openreview.net/pdf?id=uytgM9N0vlR) | N/A |
@@ -74,6 +75,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Towards Graph Foundation Models: A Survey and Beyond | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2310.11829.pdf) | N/A |
 | Generative Diffusion Models on Graphs: Methods and Applications | _IJCAI 2023_ | [[PDF]](https://arxiv.org/pdf/2302.02591.pdf) | N/A |
 | Large Graph Models: A Perspective | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2308.14522.pdf) | [[Code]](https://github.com/THUMNLab/awesome-large-graph-model) |
 | A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2303.07275.pdf) | N/A |
