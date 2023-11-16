@@ -59,6 +59,8 @@ This repository contains a curated list of papers on (or related to) **pre-train
 ### Pre-print Papers
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks | _Arxiv 2023_ | Static | N/A | Adapter | General | [[PDF]](https://arxiv.org/pdf/2304.09595.pdf) | N/A |
+| Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks | _Arxiv 2023_ | Static | N/A | AutoML | General | [[PDF]](https://arxiv.org/pdf/2308.06960.pdf) | N/A | 
 | GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning | _Arxiv 2023_ | Static | Contrastive | Prompt | General | [[PDF]](https://arxiv.org/pdf/2310.07365.pdf) | N/A |  
 | CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks | _Arxiv 2023_ | Dynamic | Contrastive | Enhanced Embedding | General | [[PDF]](https://arxiv.org/pdf/2307.02813.pdf) | N/A |
 | Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training | _Arxiv 2023_ | KG | MTL | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2305.07633.pdf) | N/A |
