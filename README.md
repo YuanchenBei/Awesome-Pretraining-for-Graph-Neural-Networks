@@ -12,6 +12,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
 | Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training | _CIKM 2023_ | KG | MTL | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2305.07633.pdf) | N/A |
+| Self-Contrastive Graph Diffusion Network | _MM 2023_ | Static | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2307.14613.pdf) | N/A |
 | All in One: Multi-Task Prompting for Graph Neural Networks | _KDD 2023_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599256) | [[Code]](https://github.com/sheldonresearch/ProG) | 
 | Automated 3D Pre-Training for Molecular Property Prediction | _KDD 2023_ | Static | Generative | N/A | Chemistry&Biology | [[PDF]](https://arxiv.org/pdf/2306.07812.pdf) | N/A | 
 | What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders | _KDD 2023_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2205.10053.pdf) | [[Code]](https://github.com/EdisonLeeeee/MaskGAE) |
