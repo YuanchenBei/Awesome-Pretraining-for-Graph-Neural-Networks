@@ -80,7 +80,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | --------------- | :--------: | :--------: | :--------: | 
 | Towards Graph Foundation Models: A Survey and Beyond | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2310.11829.pdf) | N/A |
 | Generative Diffusion Models on Graphs: Methods and Applications | _IJCAI 2023_ | [[PDF]](https://arxiv.org/pdf/2302.02591.pdf) | N/A |
-| Large Graph Models: A Perspective | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2308.14522.pdf) | [[Code]](https://github.com/THUMNLab/awesome-large-graph-model) |
+| Graph Meets LLMs: Towards Large Graph Models | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2308.14522.pdf) | [[Code]](https://github.com/THUMNLab/awesome-large-graph-model) |
 | A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2303.07275.pdf) | N/A |
 | A Survey of Pre-training on Graphs: Taxonomy, Methods and Applications | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.07893.pdf) | [[Code]](https://github.com/junxia97/awesome-pretrain-on-molecules) |
 | Self-Supervised Learning of Graph Neural Networks: A Unified Review | _TPAMI 2022_ | [[PDF]](https://arxiv.org/pdf/2102.10757.pdf) | N/A |
