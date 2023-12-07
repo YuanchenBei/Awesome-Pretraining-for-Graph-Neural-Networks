@@ -78,6 +78,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Graph Prompt Learning: A Comprehensive Survey and Beyond | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2311.16534.pdf) | [[Code]](https://github.com/WxxShirley/Awesome-Graph-Prompt) | 
 | Towards Graph Foundation Models: A Survey and Beyond | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2310.11829.pdf) | N/A |
 | Generative Diffusion Models on Graphs: Methods and Applications | _IJCAI 2023_ | [[PDF]](https://arxiv.org/pdf/2302.02591.pdf) | N/A |
 | Graph Meets LLMs: Towards Large Graph Models | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2308.14522.pdf) | [[Code]](https://github.com/THUMNLab/awesome-large-graph-model) |
@@ -85,7 +86,7 @@ This repository contains a curated list of papers on (or related to) **pre-train
 | A Survey of Pre-training on Graphs: Taxonomy, Methods and Applications | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.07893.pdf) | [[Code]](https://github.com/junxia97/awesome-pretrain-on-molecules) |
 | Self-Supervised Learning of Graph Neural Networks: A Unified Review | _TPAMI 2022_ | [[PDF]](https://arxiv.org/pdf/2102.10757.pdf) | N/A |
 | Graph Self-Supervised Learning: A Survey | _TKDE 2022_ |[[PDF]](https://arxiv.org/pdf/2103.00111.pdf) | N/A |
-| Self-supervised Learning on Graphs: Contrastive, Generative,or Predictive | _TKDE 2021_ | [[PDF]](https://arxiv.org/pdf/2105.07342.pdf) | N/A |
+| Self-supervised Learning on Graphs: Contrastive, Generative, or Predictive | _TKDE 2021_ | [[PDF]](https://arxiv.org/pdf/2105.07342.pdf) | N/A |
 | Self-supervised Learning on Graphs: Deep Insights and New Directions | _Arxiv 2020_ | [[PDF]](https://arxiv.org/pdf/2006.10141.pdf) | [[Code]](https://github.com/ChandlerBang/SelfTask-GNN) |
 
 ----------
