@@ -11,6 +11,8 @@ This repository contains a curated list of papers on (or related to) **pre-train
 
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| Empowering Dual-Level Graph Self-Supervised Pretraining with Motif Discovery | _AAAI 2024_ | Static | MTL | N/A | Biology | [[PDF]](https://arxiv.org/pdf/2312.11927.pdf) | [[Code]](https://github.com/RocccYan/DGPM) |
+| Unified Pretraining for Recommendation via Task Hypergraphs | _WSDM 2024_ | Hypergraph | Generative | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2310.13286.pdf) | [[Code]](https://github.com/mdyfrank/UPRTH) |
 | Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training | _CIKM 2023_ | KG | MTL | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2305.07633.pdf) | N/A |
 | Self-Contrastive Graph Diffusion Network | _MM 2023_ | Static | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2307.14613.pdf) | N/A |
 | All in One: Multi-Task Prompting for Graph Neural Networks | _KDD 2023_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599256) | [[Code]](https://github.com/sheldonresearch/ProG) | 
@@ -60,6 +62,8 @@ This repository contains a curated list of papers on (or related to) **pre-train
 ### Pre-print Papers
 | **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| GraphGPT: Graph Learning with Generative Pre-trained Transformers | _Arxiv 2023_ | Static | Generative | N/A | General | [[PDF]](https://arxiv.org/pdf/2401.00529.pdf) | [[Code]](https://github.com/alibaba/graph-gpt) |
+| GraphGPT: Graph Instruction Tuning for Large Language Models | _Arxiv 2023_ | Static | N/A | Prompt | General |  [[PDF]](https://arxiv.org/pdf/2310.13023.pdf) | [[Code]](https://github.com/HKUDS/GraphGPT) |
 | AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks | _Arxiv 2023_ | Static | N/A | Adapter | General | [[PDF]](https://arxiv.org/pdf/2304.09595.pdf) | N/A |
 | Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks | _Arxiv 2023_ | Static | N/A | AutoML | General | [[PDF]](https://arxiv.org/pdf/2308.06960.pdf) | N/A | 
 | GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning | _Arxiv 2023_ | Static | Contrastive | Prompt | General | [[PDF]](https://arxiv.org/pdf/2310.07365.pdf) | N/A |  
