@@ -9,11 +9,13 @@ This repository contains a curated list of papers on (or related to) **pre-train
 -----
 ### Papers
 
-| **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**PDF Link** | **Code Link** |
+| **Paper Title** | **Venue** | **Graph Type**  | **Pre-training Strategy** | **Tuning Strategy** | **Application** |**Paper Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+| Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning | _NeurIPS 2024_ | Multiplex | Contrastive | N/A | General | [[PDF]](https://openreview.net/pdf?id=xaqPAkJnAS) | [[Code]](https://github.com/zxlearningdeep/InfoMGF) | 
 | GraphPro: Graph Pre-training and Prompt Learning for Recommendation | _WWW 2024_ | Dynamic | Generative | Prompt | Recommendation | [[PDF]](https://arxiv.org/pdf/2311.16716.pdf) | [[Code]](https://github.com/HKUDS/GraphPro) |
 | Empowering Dual-Level Graph Self-Supervised Pretraining with Motif Discovery | _AAAI 2024_ | Static | MTL | N/A | Biology | [[PDF]](https://arxiv.org/pdf/2312.11927.pdf) | [[Code]](https://github.com/RocccYan/DGPM) |
 | Unified Pretraining for Recommendation via Task Hypergraphs | _WSDM 2024_ | Hypergraph | Generative | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2310.13286.pdf) | [[Code]](https://github.com/mdyfrank/UPRTH) |
+| GraphFM: A Scalable Framework for Multi-Graph Pretraining | _Arxiv 2024_ | Multi-graphs | MTL | N/A | General | [[PDF]](https://arxiv.org/abs/2407.11907) | N/A |
 | Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training | _CIKM 2023_ | KG | MTL | N/A | Recommendation | [[PDF]](https://arxiv.org/pdf/2305.07633.pdf) | N/A |
 | Self-Contrastive Graph Diffusion Network | _MM 2023_ | Static | Contrastive | N/A | General | [[PDF]](https://arxiv.org/pdf/2307.14613.pdf) | N/A |
 | All in One: Multi-Task Prompting for Graph Neural Networks | _KDD 2023_ | Static | Generative | Prompt | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599256) | [[Code]](https://github.com/sheldonresearch/ProG) | 
